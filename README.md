@@ -9,4 +9,5 @@ North Carolina State University
 <img src="assets/01ab7818354378e5a3f06fb8064d7c4adb122bb401.jpg" width="100"> 
 <!-- this is a comment -->
 
-![](assets/pereralab2.jpg)
+<!--![](assets/pereralab2.JPG) -->
+<img src="assets/pereralab2.JPG" width="2000">
