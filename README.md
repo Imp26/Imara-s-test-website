@@ -1,8 +1,10 @@
 # Imara-s-test-website
 <!-- My first attempt to create a website using GitHub Pages -->
-## Background
-Research Professor, Department of Plant and Microbial Biology,
-North Carolina State University 
+## Occupation
+Research Professor <b> Department of Plant and Microbial Biology <b> North Carolina State University
+## Background 
+ 
+ 
 ## Research Area
 How plants sense and respond to stress and changes in the environment
 ### Focus
