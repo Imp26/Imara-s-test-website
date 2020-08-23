@@ -18,4 +18,3 @@ How plants sense and respond to stress and changes in the environment
 <!-- this is a comment -->
 <!--![](assets/pereralab2.JPG) -->
 <img src="assets/pereralab2.JPG" width="250">
-<img src="assets/Eric Land Flightprep4.jpg" width="250">
