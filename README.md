@@ -13,7 +13,7 @@ How plants sense and respond to stress and changes in the environment
  - Energy and Nutrient Sensing  
  - Adaptations to Spaceflight and Microgravity
 
-<img src="assets/low Pi.jpg" width="250"> 
+<img src="assets/low Pi.jpg" width="500"> 
 <!-- ![](assets/01ab7818354378e5a3f06fb8064d7c4adb122bb401.jpg) -->
 
 <!-- <img src="assets/01ab7818354378e5a3f06fb8064d7c4adb122bb401.jpg" width="100"> -->
