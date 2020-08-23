@@ -1,7 +1,7 @@
 # Imara-s-test-website
 <!-- My first attempt to create a website using GitHub Pages -->
 ## Occupation
-Research Professor <b> Department of Plant and Microbial Biology <b> North Carolina State University
+Research Professor <br> Department of Plant and Microbial Biology <br> North Carolina State University
 ## Background 
  
  
