@@ -6,8 +6,8 @@ North Carolina State University
 ## Research Area
 How plants sense and respond to stress and changes in the environment
 ### Focus
-Energy and Nutrient Sensing
-Adaptations to Spaceflight and Microgravity
+ - Energy and Nutrient Sensing  
+ - Adaptations to Spaceflight and Microgravity
 
 
 <!-- ![](assets/01ab7818354378e5a3f06fb8064d7c4adb122bb401.jpg) -->
@@ -16,4 +16,5 @@ Adaptations to Spaceflight and Microgravity
 <!-- this is a comment -->
 
 <!--![](assets/pereralab2.JPG) -->
-<img src="assets/pereralab2.JPG" width="2000">
+<img src="assets/pereralab2.JPG" width="250">
+
